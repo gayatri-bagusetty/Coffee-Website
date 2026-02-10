@@ -1,4 +1,5 @@
 ☕  Coffee Shop Website
+
 📌 **Project Description**
 
 This project is a responsive coffee shop website developed using HTML, CSS, and JavaScript.
